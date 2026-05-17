@@ -21,3 +21,5 @@ To analyze global education indicators and visualize insights from World Bank da
 
 ### Author
 Sneh
+project demo video:
+paste_google_drive_link_here
